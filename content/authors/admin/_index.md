@@ -68,5 +68,7 @@ highlight_name: true
 ---
 
 I am a master student under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) at [Visual Computing Center (VCC)](https://vcc.tech/).
+
 My current research field include 3D reconstruction and shape completion, deep generative models, shape analysis e.t.c.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_v2.2.pdf" "newtab" >}}resume(in Chinese){{< /staticref >}}.

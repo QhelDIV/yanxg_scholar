@@ -5,7 +5,7 @@ title: "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zihao Yan
+- Zihao Yan [config.toml](..\..\..\config\_default\config.toml) 
 - Ruizhen Hu
 - admin
 - Luanmin Chen
@@ -48,8 +48,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'http://vcc.tech/file/upload_file//image/research/att201911071109/RPM-Net_reduced.pdf'
+url_code: 'https://github.com/vcc-szu/RPM-Net'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://vcc.tech/research/2019/RPMNet'
