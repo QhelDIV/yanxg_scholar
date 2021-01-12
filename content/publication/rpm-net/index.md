@@ -5,7 +5,7 @@ title: "RPM-Net: Recurrent Prediction of Motion and Parts from Point Cloud"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zihao Yan [config.toml](..\..\..\config\_default\config.toml) 
+- Zihao Yan
 - Ruizhen Hu
 - admin
 - Luanmin Chen
