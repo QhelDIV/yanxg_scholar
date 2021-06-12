@@ -69,6 +69,8 @@ highlight_name: true
 
 I am a master student under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) at [Visual Computing Center (VCC)](https://vcc.tech/).
 
-My current research field include 3D reconstruction and shape completion, deep generative models, shape analysis e.t.c.
+My research is focused on how to efficiently represent, process and generate 3D data, spanning the fields of computer graphics, computer vision and machine learning.
+Recent advances of deep unsupervised learning methods (such as GANs, autoregressive models and score-based models) has unlocked remarkable success on generating text and images, and I am interested in harnessing the potential of these techniques to enable efficiently synthesizing high-quality 3D objects and scenes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_simple_v1.1.pdf" "newtab" >}}resume(in Chinese){{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_en.pdf" "newtab" >}}resume{{< /staticref >}}.
+
