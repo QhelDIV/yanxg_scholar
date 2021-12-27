@@ -1,14 +1,12 @@
 ---
 # Display name
-title: "Xingguang Yan
-(闫星光)"
+title: "Xingguang Yan\n(闫星光)"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
 role: Master student
-posidtion: Master student
 
 # Organizations/Affiliations to show in About widget
 organizations:
