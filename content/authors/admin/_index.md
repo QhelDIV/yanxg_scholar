@@ -1,12 +1,12 @@
 ---
 # Display name
-title: "Xingguang Yan   (闫星光)"
+title: "Xingguang Yan"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Master student
+role: Research assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,7 +67,7 @@ email: "qheldiv@gmail.com"
 highlight_name: true
 ---
 
-I am a graduated master student from Shenzhen Univeristy under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) at [Visual Computing Center (VCC)](https://vcc.tech/).
+I am Xingguang Yan (闫星光), a research assistant from Shenzhen Univeristy under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) at [Visual Computing Center (VCC)](https://vcc.tech/).
 I also worked with [Prof. Daniel Cohen-Or](https://danielcohenor.com/) and [Prof. Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).
 Currently, I am looking for a Ph.D. position to continue my academic journey.
 

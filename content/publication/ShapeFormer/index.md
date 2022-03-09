@@ -29,13 +29,13 @@ publishDate: "2019-11-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Under review
-publication_short: Under review
+publication: Computer Vision and Pattern Recognition (CVPR), 2022 
+publication_short: CVPR 2022
 
 abstract: We present ShapeFormer, a transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds. The resultant distribution can then be sampled to generate likely completions, each of which exhibits plausible shape details, while being faithful to the input. To facilitate the use of transformers for 3D, we introduce a compact 3D representation, vector quantized deep implicit function (VQDIF), that utilizes spatial sparsity to represent a close approximation of a 3D shape by a short sequence of discrete variables. Experiments demonstrate that ShapeFormer outperforms prior art for shape completion from ambiguous partial inputs in terms of both completion quality and diversity. We also show that our approach effectively handles a variety of shape types, incomplete patterns, and real-world scans.
 
 # Summary. An optional shortened abstract.
-summary: Under review. a transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds.
+summary: Computer Vision and Pattern Recognition (CVPR), 2022. a transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds.
 
 tags: []
 
@@ -47,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '' #
-url_code: '' #
+url_pdf: 'https://arxiv.org/abs/2201.10326' #
+url_code: 'https://github.com/qheldiv/shapeformer' #
 url_dataset: ''
 url_poster: ''
 url_project: 'https://shapeformer.github.io' #
