@@ -9,7 +9,7 @@ authors:
 - Liqiang Lin
 - Niloy Mitra
 - Dani Lischinski
-- Danny Cohen-Or
+- Daniel Cohen-Or
 - Hui Huang
 # Author notes (optional)
 # author_notes:
@@ -35,9 +35,9 @@ publication_short: CVPR 2022
 abstract: We present ShapeFormer, a transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds. The resultant distribution can then be sampled to generate likely completions, each of which exhibits plausible shape details, while being faithful to the input. To facilitate the use of transformers for 3D, we introduce a compact 3D representation, vector quantized deep implicit function (VQDIF), that utilizes spatial sparsity to represent a close approximation of a 3D shape by a short sequence of discrete variables. Experiments demonstrate that ShapeFormer outperforms prior art for shape completion from ambiguous partial inputs in terms of both completion quality and diversity. We also show that our approach effectively handles a variety of shape types, incomplete patterns, and real-world scans.
 
 # Summary. An optional shortened abstract.
-summary: Computer Vision and Pattern Recognition (CVPR), 2022. a transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds.
+summary: Computer Vision and Pattern Recognition (CVPR), 2022. A transformer-based network that produces a distribution of object completions, conditioned on incomplete, and possibly noisy, point clouds.
 
-tags: []
+tags: ["test"]
 
 # Display this page in the Featured widget?
 featured: true

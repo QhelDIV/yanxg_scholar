@@ -67,12 +67,12 @@ email: "qheldiv@gmail.com"
 highlight_name: true
 ---
 
-I am Xingguang Yan (闫星光), a research assistant from Shenzhen Univeristy under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang) at [Visual Computing Center (VCC)](https://vcc.tech/).
+I am Xingguang Yan (闫星光), a research assistant from the [Visual Computing Center (VCC)](https://vcc.tech/) at Shenzhen University and my advisor is [Prof. Hui Huang](https://vcc.tech/~huihuang).
 I also worked with [Prof. Daniel Cohen-Or](https://danielcohenor.com/) and [Prof. Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).
-Currently, I am looking for a Ph.D. position to continue my academic journey.
+Also, I will start my PhD at [GrUVi lab@SFU](https://gruvi.cs.sfu.ca/) advised by [Prof. Andrea Tagliasacchi](https://taiya.github.io/).
 
 My research is focused on how to efficiently represent, process and generate 3D data, spanning the fields of computer graphics, computer vision and machine learning.
 Recent advances of deep unsupervised learning methods (such as GANs, autoregressive models and score-based models) has unlocked remarkable success on generating text and images, and I am interested in harnessing the potential of these techniques to enable efficiently synthesizing high-quality 3D objects and scenes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_en.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_en.pdf" "newtab" >}}CV{{< /staticref >}}.
 
