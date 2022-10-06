@@ -6,12 +6,12 @@ title: "Xingguang Yan"
 superuser: true
 
 # Role/position/tagline
-role: Research assistant
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name:  Shenzhen University
-  url: https://szu.edu.cn
+- name:  Simon Fraser University
+  url: https://gruvi.cs.sfu.ca/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3D reconstruction & completion, 3D generative models, shape analysis, e.t.c.
@@ -25,7 +25,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master in Computer Graphics
+  - course: Ph.D. in Computer Science
+    institution: Simon Fraser University
+    year: starting from 2022
+  - course: Master in Engineering
     institution: Shenzhen University
     year: 2021
   - course: BSc in Information and Computing Science
@@ -67,9 +70,8 @@ email: "qheldiv@gmail.com"
 highlight_name: true
 ---
 
-I am Xingguang Yan (闫星光), a research assistant from the [Visual Computing Center (VCC)](https://vcc.tech/) at Shenzhen University and my advisor is [Prof. Hui Huang](https://vcc.tech/~huihuang).
-I also worked with [Prof. Daniel Cohen-Or](https://danielcohenor.com/) and [Prof. Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).
-Also, I will start my PhD at [GrUVi lab@SFU](https://gruvi.cs.sfu.ca/) advised by [Prof. Andrea Tagliasacchi](https://taiya.github.io/).
+I am Xingguang Yan (闫星光), a Ph.D. student at the [GrUVi lab](https://gruvi.cs.sfu.ca/) of [SFU](https://sfu.ca/), under the supervision of [Prof. Andrea Tagliasacchi](https://taiya.github.io/).
+Previously, I obtained my master's degree in the [Visual Computing Center (VCC)](https://vcc.tech/) at Shenzhen University under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang). I also worked with [Prof. Daniel Cohen-Or](https://danielcohenor.com/) and [Prof. Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).
 
 My research is focused on how to efficiently represent, process and generate 3D data, spanning the fields of computer graphics, computer vision and machine learning.
 Recent advances of deep unsupervised learning methods (such as GANs, autoregressive models and score-based models) has unlocked remarkable success on generating text and images, and I am interested in harnessing the potential of these techniques to enable efficiently synthesizing high-quality 3D objects and scenes.
