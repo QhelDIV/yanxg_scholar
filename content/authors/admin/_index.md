@@ -70,7 +70,7 @@ email: "qheldiv@gmail.com"
 highlight_name: true
 ---
 
-I am Xingguang Yan (闫星光), a Ph.D. student at the [GrUVi lab](https://gruvi.cs.sfu.ca/) of [SFU](https://sfu.ca/), under the supervision of [Prof. Andrea Tagliasacchi](https://taiya.github.io/).
+I am Xingguang Yan (闫星光), a Ph.D. candidate at the [GrUVi lab](https://gruvi.cs.sfu.ca/) of [SFU](https://sfu.ca/).
 Previously, I obtained my master's degree in the [Visual Computing Center (VCC)](https://vcc.tech/) at Shenzhen University under the supervision of [Prof. Hui Huang](https://vcc.tech/~huihuang). I also worked with [Prof. Daniel Cohen-Or](https://danielcohenor.com/) and [Prof. Niloy J. Mitra](http://www0.cs.ucl.ac.uk/staff/n.mitra/).
 
 My research is focused on how to efficiently represent, process and generate 3D data, spanning the fields of computer graphics, computer vision and machine learning.
