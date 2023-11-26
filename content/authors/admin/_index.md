@@ -76,5 +76,5 @@ Previously, I obtained my master's degree in the [Visual Computing Center (VCC)]
 My research is focused on how to efficiently represent, process and generate 3D data, spanning the fields of computer graphics, computer vision and machine learning.
 Recent advances of deep unsupervised learning methods (such as GANs, autoregressive models and score-based models) has unlocked remarkable success on generating text and images, and I am interested in harnessing the potential of these techniques to enable efficiently synthesizing high-quality 3D objects and scenes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_en.pdf" "newtab" >}}CV{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv_en.pdf" "newtab" >}}CV{{< /staticref >}}. -->
 
